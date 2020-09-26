@@ -1,0 +1,13 @@
+name = "ManualDispatch"
+uuid = "666be00d-f264-4d02-8d64-dd271fd33b9e"
+authors = ["John Lapeyre <jlapeyre@users.noreply.github.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
